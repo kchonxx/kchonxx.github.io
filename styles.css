@@ -1,9 +1,14 @@
 .css-selector {
     font-family: 'Frank Ruhl Libre', serif;
+    font-family: 'lato', sans-serif;
 }
  
 .title p {
     font-family: 'Frank Ruhl Libre', serif;
     font-size: 16px;
     padding: 30px;
+ }
+
+ .aboutdescription p {
+     font-family: 'lato'
  }
