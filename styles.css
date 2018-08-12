@@ -11,4 +11,6 @@
 
  .aboutdescription p {
      font-family: 'lato', sans-serif;
+     padding: 30px;
+     max-width: 450px;
  }
