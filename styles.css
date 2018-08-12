@@ -23,5 +23,13 @@
  }
 
  .aboutdescription a {
-     color: black;
+     color: #000000;
+ }
+
+ .palantir p {
+    font-family: 'lato', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 1.5;
+    padding: 150px;
  }
