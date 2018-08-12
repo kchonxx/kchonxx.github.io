@@ -9,8 +9,11 @@
     padding: 30px;
  }
 
+ .aboutdescription{
+    max-width: 450px;
+ }
  .aboutdescription p {
      font-family: 'lato', sans-serif;
+     font-size: 24px;
      padding: 30px;
-     max-width: 450px;
  }
