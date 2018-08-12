@@ -11,7 +11,7 @@
  }
 
  .aboutdescription {
-    max-width: 600px;
+    max-width: 520px;
  }
 
  .aboutdescription p {
@@ -20,7 +20,6 @@
     font-weight: 300;
     line-height: 1.5;
     padding: 50px;
-    
  }
 
  .aboutdescription a {
@@ -33,6 +32,10 @@
     font-weight: 300;
     line-height: 1.5;
     padding: 150px;
+ }
+
+ .palantir a {
+    color: #000000; 
  }
 
  /* float left for first div */
