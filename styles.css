@@ -6,16 +6,16 @@
 .title p {
     font-family: 'Frank Ruhl Libre', serif;
     font-size: 16px;
-    padding: 30px;
+    padding: 50px;
  }
 
  .aboutdescription {
-    max-width: 450px;
+    max-width: 600px;
  }
  .aboutdescription p {
      font-family: 'lato', sans-serif;
      font-size: 24px;
      font-weight: 300;
-     padding: 30px;
+     padding: 50px;
     
  }
