@@ -9,11 +9,13 @@
     padding: 30px;
  }
 
- .aboutdescription{
+ .aboutdescription {
     max-width: 450px;
  }
  .aboutdescription p {
      font-family: 'lato', sans-serif;
      font-size: 24px;
+     font-weight: 300;
      padding: 30px;
+    
  }
