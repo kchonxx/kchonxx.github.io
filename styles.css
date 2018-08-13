@@ -44,7 +44,8 @@
  .workgroup a {
     color: #000000; 
  }
-.workgroup palantir p pinkcolor {
+ 
+mark.pink {
     color: FF5252;
 }
 
