@@ -28,12 +28,12 @@
     color: #000000;
  }
  
- .palantir {
+ .workgroup {
     max-width: 760px;
     display: inline-block;
     vertical-align: top;
  }
- .palantir p {
+ .workgroup p {
     font-family: 'lato', sans-serif;
     font-size: 24px;
     font-weight: 300;
@@ -41,6 +41,6 @@
     margin: 50px 50px 20px 0px;
  }
 
- .palantir a {
+ .workgroup a {
     color: #000000; 
  }
