@@ -50,4 +50,17 @@
 
 .footer a {
     font-style: underline;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-weight: 300;
+    font-size: 14px;
+    padding: 50px 50px 0px 50px;
+    display: inline-block;
+}
+
+.footer p {
+    font-family: 'Frank Ruhl Libre', serif;
+    font-weight: 300;
+    font-size: 14px;
+    padding: 50px 50px 0px 50px;
+    display: inline-block;
 }
