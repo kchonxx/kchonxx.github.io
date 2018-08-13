@@ -26,7 +26,10 @@
  .aboutdescription a {
      color: #000000;
  }
-
+ 
+ .palantir {
+     max-width: 600px;
+ }
  .palantir p {
     font-family: 'lato', sans-serif;
     font-size: 24px;
