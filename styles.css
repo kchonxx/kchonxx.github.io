@@ -2,7 +2,7 @@
     font-family: 'Frank Ruhl Libre', serif;
     font-family: 'lato', sans-serif;
 }
- 
+
 .title p {
     font-family: 'Frank Ruhl Libre', serif;
     font-weight: 700;
@@ -12,6 +12,7 @@
 
  .aboutdescription {
     max-width: 520px;
+    float: left;
  }
 
  .aboutdescription p {
@@ -37,5 +38,3 @@
  .palantir a {
     color: #000000; 
  }
-
- /* float left for first div */
