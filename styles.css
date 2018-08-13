@@ -44,9 +44,10 @@
  .workgroup a {
     color: #000000; 
  }
- 
+
 mark.pink {
-    color: FF5252;
+    color: #FF5252;
+    background: none;
 }
 
 .footer a {
