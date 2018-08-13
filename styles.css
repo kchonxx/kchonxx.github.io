@@ -8,6 +8,7 @@
     font-weight: 700;
     font-size: 16px;
     padding: 50px 50px 0px 50px;
+    display: inline-block;
  }
 
  .aboutdescription {
@@ -51,6 +52,7 @@
 }
 
 .footer a {
+    color: #000000;
     font-style: underline;
     font-family: 'Frank Ruhl Libre', serif;
     font-weight: 300;
