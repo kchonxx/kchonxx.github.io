@@ -12,7 +12,7 @@
  }
 
  .aboutdescription {
-    max-width: 780px;
+    max-width: 760px;
     display: inline-block;
     vertical-align: top;
  }
@@ -30,7 +30,7 @@
  }
  
  .workgroup {
-    max-width: 780px;
+    max-width: 760px;
     vertical-align: top;
     margin: 50px 50px 0px 50px;
  }
