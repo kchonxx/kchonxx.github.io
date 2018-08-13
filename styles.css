@@ -13,6 +13,7 @@
  .aboutdescription {
     max-width: 520px;
     display: inline-block;
+    vertical-align: top;
  }
 
  .aboutdescription p {
@@ -24,12 +25,13 @@
  }
 
  .aboutdescription a {
-     color: #000000;
+    color: #000000;
  }
  
  .palantir {
-     max-width: 600px;
-     display: inline-block;
+    max-width: 600px;
+    display: inline-block;
+    vertical-align: top;
  }
  .palantir p {
     font-family: 'lato', sans-serif;
