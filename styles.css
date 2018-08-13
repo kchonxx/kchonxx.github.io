@@ -12,7 +12,7 @@
 
  .aboutdescription {
     max-width: 520px;
-    float: left;
+    display: inline-block;
  }
 
  .aboutdescription p {
@@ -29,13 +29,13 @@
  
  .palantir {
      max-width: 600px;
+     display: inline-block;
  }
  .palantir p {
     font-family: 'lato', sans-serif;
     font-size: 24px;
     font-weight: 300;
     line-height: 1.5;
-    padding: 150px;
  }
 
  .palantir a {
