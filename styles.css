@@ -7,7 +7,7 @@
     font-family: 'Frank Ruhl Libre', serif;
     font-weight: 700;
     font-size: 16px;
-    padding: 50px 50px 0px 50px;
+    margin: 50px;
     display: inline-block;
  }
 
@@ -22,7 +22,7 @@
     font-size: 24px;
     font-weight: 300;
     line-height: 1.5;
-    margin: 50px;
+    margin: 0px 50px 50px 50px;
  }
 
  .aboutdescription a {
