@@ -47,3 +47,7 @@
 .workgroup palantir p pinkcolor {
     color: FF5252;
 }
+
+.footer a {
+    font-style: underline;
+}
