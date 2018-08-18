@@ -60,7 +60,7 @@
     display: inline-block;
 }
 
-.footer .email {
+.footer a {
     color: #000000;
     font-style: underline;
     font-family: 'Frank Ruhl Libre', serif;
