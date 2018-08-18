@@ -50,7 +50,17 @@
     background: yellow;
 }
 
-.footer a {
+.footer1 a {
+    color: #000000;
+    font-style: underline;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-weight: 300;
+    font-size: 14px;
+    margin: 50px;
+    display: inline-block;
+}
+
+.footer2 a {
     color: #000000;
     font-style: underline;
     font-family: 'Frank Ruhl Libre', serif;
