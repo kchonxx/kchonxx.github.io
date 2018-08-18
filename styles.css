@@ -56,8 +56,9 @@
     font-family: 'Frank Ruhl Libre', serif;
     font-weight: 300;
     font-size: 14px;
-    margin: 50px;
-    display: inline-block;
+    margin: 40px 50px 50px 50px;
+    display: block;
+    float: left;
 }
 
 .footer2 a {
@@ -66,6 +67,7 @@
     font-family: 'Frank Ruhl Libre', serif;
     font-weight: 300;
     font-size: 14px;
-    margin: 50px;
-    display: inline-block;
+    margin: 60px 0px 0px 500px;
+    display: block;
+    float: inherit;
 }
