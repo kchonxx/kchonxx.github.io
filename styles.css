@@ -50,7 +50,7 @@
     background: yellow;
 }
 
-.footer a {
+.footer resume {
     color: #000000;
     font-style: underline;
     font-family: 'Frank Ruhl Libre', serif;
@@ -60,10 +60,12 @@
     display: inline-block;
 }
 
-.footer p {
+.footer .email {
+    color: #000000;
+    font-style: underline;
     font-family: 'Frank Ruhl Libre', serif;
     font-weight: 300;
     font-size: 14px;
-    margin: 50px 50px 20px 374px;
+    margin: 50px;
     display: inline-block;
 }
