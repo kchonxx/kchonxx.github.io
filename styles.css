@@ -50,16 +50,6 @@
     background: yellow;
 }
 
-.footer resume {
-    color: #000000;
-    font-style: underline;
-    font-family: 'Frank Ruhl Libre', serif;
-    font-weight: 300;
-    font-size: 14px;
-    margin: 50px;
-    display: inline-block;
-}
-
 .footer a {
     color: #000000;
     font-style: underline;
